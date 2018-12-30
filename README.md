@@ -1,1 +1,2 @@
-# background-generator
+# background-generator 
+Learnin Git & Github ;)
